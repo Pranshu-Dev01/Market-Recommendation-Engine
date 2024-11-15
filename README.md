@@ -56,7 +56,8 @@ created selenium_test.py file which contains the selenium code for autotesting a
 
 ![image](https://github.com/user-attachments/assets/973f8c08-0c69-4793-b039-b0d084f1d2ab)
 
-![image](https://github.com/user-attachments/assets/774aaa2e-1942-4999-a052-85653dce458c)
+![image](https://github.com/user-attachments/assets/89ae71a2-1bea-4144-be05-8e6baefd4269)
+
 
 
 
